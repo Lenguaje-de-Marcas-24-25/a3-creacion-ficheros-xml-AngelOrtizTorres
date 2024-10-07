@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+   <ciudad cod="1">
+      <nombre>Bruselas</nombre>
+      <pais continente="Europa">Bélgica</pais>
+      <poblacion>185103</poblacion>
+      <descripcion>Bruselas es la capital de Bélgica y sede de la Unión Europea, conocida por su arquitectura gótica y su papel político.</descripcion>
+   </ciudad>
+   <ciudad cod="2">
+      <nombre>Pekín</nombre>
+      <pais continente="Asia">China</pais>
+      <poblacion>21540000</poblacion>
+      <descripcion>Pekín es la capital de China, famosa por la Ciudad Prohibida y su importante rol en la historia y la política china.</descripcion>
+   </ciudad>
+   <ciudad cod="3">
+      <nombre>Buenos Aires</nombre>
+      <pais continente="América">Argentina</pais>
+      <poblacion>3075646</poblacion>
+      <descripcion>Buenos Aires es la capital de Argentina, conocida por su cultura vibrante, el tango y su rica historia.</descripcion>
+   </ciudad>
+</ciudades>
